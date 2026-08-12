@@ -80,7 +80,7 @@ Tic-Tac-Toe/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR-REPOSITORY-LINK
+[git clone YOUR-REPOSITORY-LINK](https://github.com/Vishal-coder99/TIC-TAC-TOE-Game)
 ```
 
 ### 2. Open the project folder
